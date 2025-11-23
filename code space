@@ -1,1 +1,12 @@
-
+print ("hello")
+code block
+/**
+ * No code selection was provided.
+ *
+ * Please paste the code you want documented and specify:
+ *   - the target documentation style (e.g., Javadoc, C# XML doc, Python docstring, Go comment),
+ *   - the desired level of detail (brief summary, parameter descriptions, examples, return values, exceptions),
+ *   - any naming or formatting preferences.
+ *
+ * Once you provide the selection and preferences, I will return only the requested documentation comment.
+ */
